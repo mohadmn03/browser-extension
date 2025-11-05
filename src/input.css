@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer components {
+  .button {
+    @apply font-bold w-48 bg-[#4d8181] hover:bg-[#4d81819b] text-sm py-3 px-8 cursor-pointer text-white;
+  }
+}
