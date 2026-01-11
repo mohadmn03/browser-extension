@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "version": "5.0",
-  "name": "Bachir Fatma Demmane",
+  "version": "2.1",
+  "name": "mohammed Bachir Demmane",
   "action": {
     "default_popup": "./index.html",
-    "default_icon": "./img/extIcon.jpeg"
+    "default_icon": "./img/icon.png"
   },
   "permissions": ["tabs"]
 }
